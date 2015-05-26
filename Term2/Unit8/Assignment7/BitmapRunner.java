@@ -7,7 +7,7 @@
 
 import java.io.IOException;
 
-public class Main
+public class BitmapRunner
 {
 
  public static void main(String arg[]) throws IOException

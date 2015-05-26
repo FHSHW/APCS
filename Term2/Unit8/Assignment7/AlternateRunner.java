@@ -1,4 +1,4 @@
-class Main {
+class AlternateRunner {
     public static void main(String[] args) {
         Bitmap b = new Bitmap(new int[] {9, 9,0,9,9,0,0,0});
         System.out.println(b.toString());

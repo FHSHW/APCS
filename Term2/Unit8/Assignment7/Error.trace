@@ -1,9 +1,0 @@
-Runtime Error
-
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 12
-  at Bitmap.<init>(Main.java:444)
-  at Main.main(Main.java:262)
-  at Ideone.assertRegex(Main.java:109)
-  at Ideone.test(Main.java:42)
-  at Ideone.main(Main.java:29)
-
