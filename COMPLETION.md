@@ -32,19 +32,19 @@ Term 2:
 
 - [ ] Unit 6: Advanced Classes
   - [ ] Quiz 2
-  - [ ] Assignment 3: School Classes
+  - [x] Assignment 3: School Classes
   - [ ] Exam 2
-  - [ ] Assignment 4: Time Comparable
+  - [x] Assignment 4: Time Comparable
 
 - [ ] Unit 7: Algorithms
   - [ ] Quiz 3
-  - [ ] Assignment 5: Shuffle
+  - [x] Assignment 5: Shuffle
   - [ ] Quiz 4
-  - [ ] Assignment 6: Insert Names
+  - [x] Assignment 6: Insert Names
 
 - [ ] Unit 8: Two-Dimensional Arrays
   - [ ] Exam 3
-  - [ ] Assignment 7: 2D Bitmap
+  - [x] Assignment 7: 2D Bitmap
 
 - [ ] Unit 9: AP Exam Prep
 
